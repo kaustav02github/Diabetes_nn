@@ -1,2 +1,2 @@
-# Diabrtes_nn
+# Diabetes_nn
 Diabetes prediction women
